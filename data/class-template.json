@@ -1,0 +1,302 @@
+{
+    "name": "Class Name",
+    "hitDie": "d8",
+    "proficiencies": {
+        "weapons": [
+            "simple"
+        ],
+        "armor": [
+            "light",
+            "medium"
+        ],
+        "skills": {
+            "number": 3,
+            "options": [
+                "athletics", 
+                "deception", 
+                "history",
+                "insight", 
+                "intimidation", 
+                "investigation", 
+                "medicine",
+                "performance", 
+                "persuasion"
+            ]
+        },
+        "tools": [],
+        "saves": [
+            "wis",
+            "cha"
+        ]
+    },
+    "languages": [],
+    "spells": {
+        "spellcasting": false,
+        "cantrips": {
+            "known": [],
+            "automatic": [],
+            "options": [
+                "Create Bonfire"
+            ]
+        },
+        "known":[],
+        "slots": [
+            [3,2,0,0,0,0,0,0,0,0],
+            [3,3,0,0,0,0,0,0,0,0],
+            [3,4,2,0,0,0,0,0,0,0],
+            [3,4,3,0,0,0,0,0,0,0],
+            [3,4,3,2,0,0,0,0,0,0],
+            [3,4,3,2,0,0,0,0,0,0],
+            [3,4,3,3,1,0,0,0,0,0],
+            [3,4,3,3,2,0,0,0,0,0],
+            [3,4,3,3,2,1,0,0,0,0],
+            [3,4,3,3,3,2,0,0,0,0],
+            [3,4,3,3,3,2,1,0,0,0],
+            [3,4,3,3,3,2,1,0,0,0],
+            [3,4,3,3,3,2,1,1,0,0],
+            [3,4,3,3,3,2,1,1,0,0],
+            [3,4,3,3,3,2,1,1,1,0],
+            [3,4,3,3,3,2,1,1,1,0],
+            [3,4,3,3,3,2,1,1,1,1],
+            [3,4,3,3,3,3,1,1,1,1],
+            [3,4,3,3,3,3,2,1,1,1],
+            [3,4,3,3,3,3,2,2,1,1]
+        ],
+        "automatic": {},
+        "options": {
+            "0": [
+                "Entangle"
+            ],
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": []
+        }
+    },
+    "actions": {
+        "1": [
+            "Battlefield Presence"
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+    },
+    "bonusActions": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+    },
+    "otherActions": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+    },
+    "reactions": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+    },
+    "features": [
+        {
+            "name": "Battlefield Presence",
+            "level": 1,
+            "optional": false,
+            "description": "Starting at 1st level, when you take the Attack action, in place of making an attack, you can use your Battlefield Presence to grant a friendly creature that can see or hear you an additional attack the next time they take the Attack action during their turn.\nAny additional attacks granted that are unused at the start of your next turn are lost. A friendly creature can only gain one additional attack from this feature per round from this feature."
+        }
+    ],
+    "subclasses": {
+        "commander": {
+            "name": "Commander",
+            "features": [
+                {
+                    "name": "Martial Proficiency",
+                    "level": 1,
+                    "description": "Starting at 1st level when you take this Presence, you gain proficiency in heavy armor, shields, and martial weapons.",
+                    "optional": false
+                }
+            ],
+            "proficiencies": {
+                "weapons": [
+                    "martial"
+                ],
+                "armor": [
+                    "heavy",
+                    "shield"
+                ],
+                "skills": {
+                    "number": false,
+                    "options": []
+                },
+                "tools": {}
+            },
+            "spells": {
+                "spellcasting": false,
+                "cantrips": false,
+                "known": [],
+                "slots": [],
+                "automatic": {},
+                "options": {}
+            },
+            "actions": {
+                "1": [],
+                "2": [],
+                "3": [],
+                "4": [],
+                "5": [],
+                "6": [],
+                "7": [],
+                "8": [],
+                "9": [],
+                "10": [],
+                "11": [],
+                "12": [],
+                "13": [],
+                "14": [],
+                "15": [],
+                "16": [],
+                "17": [],
+                "18": [],
+                "19": [],
+                "20": []
+            },
+            "bonusActions": {
+                "1": [],
+                "2": [],
+                "3": [],
+                "4": [],
+                "5": [],
+                "6": [],
+                "7": [],
+                "8": [],
+                "9": [],
+                "10": [],
+                "11": [],
+                "12": [],
+                "13": [],
+                "14": [],
+                "15": [],
+                "16": [],
+                "17": [],
+                "18": [],
+                "19": [],
+                "20": []
+            },
+            "otherActions":{
+                "1": [],
+                "2": [],
+                "3": [],
+                "4": [],
+                "5": [],
+                "6": [],
+                "7": [],
+                "8": [],
+                "9": [],
+                "10": [],
+                "11": [],
+                "12": [],
+                "13": [],
+                "14": [],
+                "15": [],
+                "16": [],
+                "17": [],
+                "18": [],
+                "19": [],
+                "20": []
+            },
+            "reactions": {
+                "1": [],
+                "2": [],
+                "3": [],
+                "4": [],
+                "5": [],
+                "6": [],
+                "7": [],
+                "8": [],
+                "9": [],
+                "10": [],
+                "11": [],
+                "12": [],
+                "13": [],
+                "14": [],
+                "15": [],
+                "16": [],
+                "17": [],
+                "18": [],
+                "19": [],
+                "20": []
+            }
+        }
+    }
+}

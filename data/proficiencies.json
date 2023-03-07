@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Acrobatics",
+        "stat": "dex",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Animal Handling",
+        "stat": "wis",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Arcana",
+        "stat": "int",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Athletics",
+        "stat": "str",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Deception",
+        "stat": "cha",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "History",
+        "stat": "int",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Insight",
+        "stat": "wis",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Intimidation",
+        "stat": "cha",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Investigation",
+        "stat": "int",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Medicine",
+        "stat": "wis",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Nature",
+        "stat": "int",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Perception",
+        "stat": "wis",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Performance",
+        "stat": "cha",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Persuasion",
+        "stat": "cha",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Religion",
+        "stat": "int",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Sleight of Hand",
+        "stat": "dex",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Stealth",
+        "stat": "dex",
+        "expert": false,
+        "proficient": false
+    },
+    {
+        "name": "Survival",
+        "stat": "wis",
+        "expert": false,
+        "proficient": false
+    }
+]

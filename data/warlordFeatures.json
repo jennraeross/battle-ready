@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Battlefield Presence",
+        "level": 1,
+        "optional": false,
+        "description": "Starting at 1st level, when you take the Attack action, in place of making an attack, you can use your Battlefield Presence to grant a friendly creature that can see or hear you an additional attack the next time they take the Attack action during their turn.\nAny additional attacks granted that are unused at the start of your next turn are lost. A friendly creature can only gain one additional attack from this feature per round from this feature."
+    },
+    {
+        "name": "Leadership Dice",
+        "level": 2,
+        "optional": false,
+        "description": "Starting at 2nd level, you have access to Leadership Dice. These represent your ability to focus your battlefield presence for powerful results. Your Warlord level determines the number and size of the dice, as shown on the Leadership Dice column of the Warlord table. You can spend these to fuel various features.\nYou know three such features: Rallying Mark, Urgent Orders, and Helpful Word. When you get this feature, you can spend one Leadership Die per turn. Starting at 6th level, you can spend two Leadership Dice per turn. The number you can expend increases to three at 11th level, and to four at 17th level.\nA Leadership Die is expended when you use it. You regain all of your expended Leadership Dice when you finish a short or long rest."
+    },
+    {
+        "name": "Rallying Mark",
+        "level": 2,
+        "optional": false,
+        "description": "As a bonus action, you can expend a number of Leadership Dice (up to your per turn limit) to rally your allies to attack a hostile creature within 60 feet of you.\nThe next time damage is rolled against that target by an allied creature before the start of your next turn, they can add the Leadership Dice to the damage roll, and the attacking creature regains hit points equal to the amount rolled on the Leadership Dice."
+    },
+    {
+        "name": "Urgent Orders",
+        "level": 2,
+        "optional": false,
+        "description": "As a bonus action, you can expend a number of Leadership Dice (up to your per turn limit) to guide your allies in expeditious action.\nTarget an allied creature within 60 feet of you that can see or hear you, that creature can immediately use its reaction to move up to its movement speed (up to a maximum of 30 feet) without provoking opportunity attacks. Roll the leadership dice expended, the target gains temporary hit points equal to the value rolled."
+    },
+    {
+        "name": "Helpful Word",
+        "level": 2,
+        "optional": false,
+        "description": "As a bonus action, you can spend a Leadership Die to take the Help action. When you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if your ally can see or hear you."
+    },
+    {
+        "name": "Warlord\"s Expertise",
+        "level": 3,
+        "optional": false,
+        "description": "Starting at 3rd level, choose one of the following skills: Investigation, Insight, Intimidation, or Persuasion. If you are not proficient in the chosen skill you become proficient If you are already proficient in the skill you select, your proficiency bonus is doubled for any ability check you make that uses that skill."
+    },
+    {
+        "name": "Extra Attack",
+        "level": 5,
+        "optional": false,
+        "description": "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. You can use Battlefield Presence in place of either or both attacks."
+    },
+    {
+        "name": "Prepare for Battle",
+        "level": 6,
+        "optional": false,
+        "description": "Starting at 6th level, you can spend a minute preparing up to five allies for combat. You can expend a number of Leadership Dice up to your per turn limit, rolling them and causing your allies to gain temporary hit points equal to the number rolled. Allies that have benefited from this ability can expend a number of hit dice equal to the number of Leadership Dice you expended, using them as they would during a short rest. Any temporary hit points gained from this last until you complete a short or long rest."
+    },
+    {
+        "name": "Rallying Mark - Boost Morale",
+        "level": 9,
+        "optional":false,
+        "description": "When a creature gains hit points from Rallying Mark, you can expend one Leadership die to cause another creature within 30 feet to regain the same number of hit points."
+    },
+    {
+        "name": "Urgent Orders - Coordinated Movements",
+        "level": 9,
+        "optional": false,
+        "description": "When you use Urgent Orders, you can target a number of creatures equal to the number of Leadership Dice spent, spending dice on each target individually."
+    },
+    {
+        "name": "Helpful Word - Expert Instructions",
+        "level": 9,
+        "optional": false,
+        "description": "When a creature benefits from your Help action, you can use your reaction to expend a Leadership Die and add it to their roll. You can use this ability after the original roll, but before the outcome is revealed."
+    },
+    {
+        "name": "Warlord\"s Intuition",
+        "level": 13,
+        "optional": false,
+        "description": "Starting at 13th level, before rolling an ability check you are proficient in, you can exercise this ability, choosing for the d20 to be equal to your Warlord level rather than rolling.\nOnce you do this, you cannot do this until you complete a long rest."
+    },
+    {
+        "name": "Shift the Field",
+        "level": 14,
+        "optional": false,
+        "description": "Starting at 14th level, you gain the ability to relocate friendly creatures. As an action, you can expend one Leadership Die to move up to 5 friendly creatures that can see or hear you up to half their movement speed without provoking attacks of opportunity."
+    },
+    {
+        "name": "Unbreakable Will",
+        "level": 17,
+        "optional": false,
+        "description": "Starting at 17th level, you are immune to the frightened and charmed conditions."
+    },
+    {
+        "name": "Tireless Leader",
+        "level": 20,
+        "optional": false,
+        "description": "Starting at 20th level, you can roll d4s and use them instead of expending Leadership Dice for Rallying Mark, Urgent Orders, Helpful Word, or Prepare for Battle."
+    }
+]
